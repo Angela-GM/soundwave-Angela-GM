@@ -8,7 +8,7 @@ background-color: var(--color-button-background);
     padding: 9px 22px;
     border: none;
     transition: all .3s ease;
-    font-size: 0.5rem;
+    font-size: 0.8rem;
     font-weight: 100;
     cursor: pointer;
 
